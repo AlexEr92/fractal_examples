@@ -32,7 +32,7 @@ int main() {
     char *window_name = "Mandelbrot Set";
     unsigned long valuemask = 0;
 
-    /* Mandlebrot variables */
+    /* Mandelbrot variables */
     int i, j, k;
     Compl z, c;
     float lengthsq, temp;
